@@ -1,6 +1,6 @@
 # Ex Nihilo Vita Prolata Non officialis
 
-Issues should be reported to the Github [issue tracker](https://github.com/erialsan/ExNihilo-Vita-prolata-non-officialis).
+Issues should be reported to the Github [issue tracker](https://github.com/erialsan/ExNihilo-Vita-prolata-non-officialis/issues).
 
 Do you love Skyblocks? Do you hate having one block that takes you from minute 5 to year 5? Then this is the mod for you!
 
