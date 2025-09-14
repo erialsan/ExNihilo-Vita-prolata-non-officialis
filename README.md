@@ -4,7 +4,7 @@ Issues should be reported to the Github [issue tracker](https://github.com/erial
 
 Do you love Skyblocks? Do you hate having one block that takes you from minute 5 to year 5? Then this is the mod for you!
 
-Ex Nihilo Creatio is a fork of Ex Nihilo Adscensio for 1.12. Ex Nihilo Adscensio was a continuation of the Ex Nihilo mod from 1.7.10, rewritten from the ground up.
+Ex Nihilo VPN is a fork of Ex Nihilo Creatio is a fork of Ex Nihilo Adscensio for 1.12. Ex Nihilo Adscensio was a continuation of the Ex Nihilo mod from 1.7.10, rewritten from the ground up.
 
 The core concepts remain the same, but with a few key additions to give a little extra progression.
 
